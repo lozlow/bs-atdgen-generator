@@ -1,6 +1,6 @@
 {
   "name": "@lozlow/bs-atdgen-generator",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Atdgen prebuilt binaries for 3 major OS platforms.",
   "author": " Pete Shaw <lozlow@users.noreply.github.com>",
   "license": "MIT",
